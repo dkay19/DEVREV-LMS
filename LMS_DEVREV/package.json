@@ -1,0 +1,12 @@
+{
+  "name": "lms_dev",
+  "version": "1.0.0",
+  "description": "devrevassignment",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC"
+}
